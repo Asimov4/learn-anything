@@ -54,6 +54,11 @@
           "color": "rgba(0, 224, 161, 1.0)"
         }
       ]
+    },
+    {
+      "text": "mapping",
+      "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html",
+      "nodes": []
     }
   ],
   "connections": [
@@ -64,6 +69,11 @@
         "x": -14.1636,
         "y": 93.9167
       }
+    },
+    {
+      "source": "basics",
+      "target": "mappings",
+      "curve": {}
     }
   ]
 }
